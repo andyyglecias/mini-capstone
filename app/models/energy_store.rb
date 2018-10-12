@@ -1,0 +1,2 @@
+class EnergyStore < ApplicationRecord
+end
